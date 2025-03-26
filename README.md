@@ -1,12 +1,12 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ajith Kumar Kannan
 ==========================================================================================================================================
-🎓 Graduate Student | Healthcare Data & Analytics | NLP in Healthcare
+🎓 Doctor | Healthcare Data & Quality Analytics | Health Informatics Graduate Student
 
 I'm passionate about leveraging data analytics, machine learning, and NLP to drive insights in healthcare. With experience in healthcare data analysis, quality metrics, and medical informatics, I specialize in working with electronic health records (EHR), predictive modeling, and healthcare databases.
 
 # 👨‍💻 About Me
 
-* 🎓 Graduate Student in Health Informatics at Rutgers University (Graduating May 2025).
+* 🎓 Currently a Graduate Student Pursuing M.S. in Health Informatics at Rutgers University (Graduating May 2025). 
 
 * 🏥 Former Quality Analytics Intern at Alameda Health System (AHS) & Clinical Intern at Sir Run Run Shaw Hospital Affiliated to Zhejiang University (浙江大学).
 
