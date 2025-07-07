@@ -6,7 +6,7 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 
 # 👨‍💻 About Me
 
-* 🎓 M.S. in Health Informatics Graduate from Rutgers University, New Brunswick, New Jersey (Graduated in May 2025). 
+* 🎓 M.S. Health Informatics Graduate from Rutgers University, New Brunswick, New Jersey (Graduated in May 2025). 
 
 * 🏥 Former Quality Analytics Intern at Alameda Health System (AHS) & Clinical Intern at Sir Run Run Shaw Hospital Affiliated with Zhejiang University (浙江大学).
 
