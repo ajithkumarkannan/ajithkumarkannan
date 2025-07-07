@@ -14,9 +14,11 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 
 * 📊 Strong background in Clinical Medicine, Patient Care, Statistical analysis, Data Visualization, and Medical Terminologies.
 
-* 🤖 Currently exploring NLP in healthcare and working on a project using PyTorch, TensorFlow, GPT, Bert, spaCy, SciSpaCy, and MIMIC-IV data.
+* 🤖 Worked on exploring NLP in healthcare and working on a project using PyTorch, TensorFlow, GPT, Bert, spaCy, SciSpaCy, and MIMIC-IV data.
 
 * 📍 Research interests: Medical coding validation, patient safety indicators, and health disparities.
+
+* Currently looking for a Full-time role as a Healthcare/Clinical Quality Analyst or Data Analyst.
 
 # 🛠️ Technical Skills
 
