@@ -1,6 +1,6 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ajith Kumar Kannan
 ==========================================================================================================================================
-🎓 Doctor | Healthcare Data & Quality Analytics | Health Informatics Graduate Student
+🎓 Doctor | Healthcare Data & Quality Analytics | M.S. Health Informatics Graduate
 
 I'm passionate about leveraging data analytics, machine learning, and NLP to drive insights in healthcare. With experience in healthcare data analysis, quality metrics, and medical informatics, I specialize in working with electronic health records (EHR), predictive modeling, and healthcare databases.
 
