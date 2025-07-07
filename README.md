@@ -6,9 +6,9 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 
 # 👨‍💻 About Me
 
-* 🎓 Currently a Graduate Student Pursuing M.S. in Health Informatics at Rutgers University (Graduating May 2025). 
+* 🎓 M.S. in Health Informatics Graduate from Rutgers University, New Brunswick, New Jersey (Graduated in May 2025). 
 
-* 🏥 Former Quality Analytics Intern at Alameda Health System (AHS) & Clinical Intern at Sir Run Run Shaw Hospital Affiliated to Zhejiang University (浙江大学).
+* 🏥 Former Quality Analytics Intern at Alameda Health System (AHS) & Clinical Intern at Sir Run Run Shaw Hospital Affiliated with Zhejiang University (浙江大学).
 
 * 🔬 Passionate about healthcare informatics, Healthcare Quality analytics, and Patient Care.
 
@@ -46,6 +46,8 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 # 📚 Publications & Research Work
 
 📝 Implementing Accurx for Total Triage Enhancing Care Navigation and Patient Experience – [Click Here for Article Link](https://www.cureus.com/articles/328144-implementing-accurx-for-total-triage-enhancing-care-navigation-and-patient-experience#!/)
+
+📝 Intramedullary Fibular Nail Fixation in an Elderly Patient with a Comminuted Weber C Ankle Fracture: A Case Report – [Click Here for Article Link](https://jocr.co.in/wp/2025/06/01/intramedullary-fibular-nail-fixation-in-an-elderly-patient-with-a-comminuted-weber-c-ankle-fracture-a-case-report/) 
 
 📝 Frederick G Banting (1891-1941): A Pioneer in Diabetes Treatment – [Click Here for Article Link](https://www.cureus.com/articles/290762#!/)
 
