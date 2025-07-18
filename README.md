@@ -30,7 +30,7 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 
 🔹 Statistical Analysis: ANOVA, Regression, Survival Analysis
 
-🔹 Machine Learning: Predictive Modeling, NLP, Named Entity Recognition (NER)
+🔹 Natural Language Processing (NLP): Relation Extraction (RE), Semantic Similarity, Sentiment Analysis, Predictive Modeling, Named Entity Recognition (NER)
 
 🔹 Healthcare Data & Standards: ICD-10, CPT, HCPCS, HL7, FHIR, AHRQ, TJC, HCAHPS, MIPS
 
@@ -52,6 +52,8 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 📝 Intramedullary Fibular Nail Fixation in an Elderly Patient with a Comminuted Weber C Ankle Fracture: A Case Report – [Click Here for Article Link](https://jocr.co.in/wp/2025/06/01/intramedullary-fibular-nail-fixation-in-an-elderly-patient-with-a-comminuted-weber-c-ankle-fracture-a-case-report/) 
 
 📝 Frederick G Banting (1891-1941): A Pioneer in Diabetes Treatment – [Click Here for Article Link](https://www.cureus.com/articles/290762#!/)
+
+📝 Enhancing Breast Cancer Screening Uptake: A Community-based Intervention in Southeast Wolverhampton, UK – [Click Here for Article Link]([https://www.cureus.com/articles/380558-enhancing-breast-cancer-screening-uptake-a-community-based-intervention-in-southeast-wolverhampton-uk#!/)
 
 # 📫 Connect with Me
 
