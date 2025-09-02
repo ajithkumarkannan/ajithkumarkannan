@@ -55,6 +55,8 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 
 📝 Enhancing Breast Cancer Screening Uptake: A Community-based Intervention in Southeast Wolverhampton, UK – [Click Here for Article Link](https://www.cureus.com/articles/380558-enhancing-breast-cancer-screening-uptake-a-community-based-intervention-in-southeast-wolverhampton-uk#!/) 
 
+📝 Bilateral Total Hip Arthroplasties Secondary to Renal Osteodystrophy in a Patient with a Rare Cromer Antibody: A Case Report – [Click Here for Article Link](https://jocr.co.in/wp/2025/08/bilateral-total-hip-arthroplasty-secondary-to-renal-osteodystrophy-in-a-patient-with-a-rare-cromer-antibody-a-case-report/)  
+
 # 📫 Connect with Me
 
 📧 [Email](mailto:ajith.kumar760@gmail.com)
