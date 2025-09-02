@@ -22,9 +22,9 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 
 # 🛠️ Technical Skills
 
-🔹 Programming: Python (Pandas, NumPy, SciPy, spaCy, SciSpaCy), R, SQL, SAS
+🔹 Programming: Python (Pandas, NumPy, SciPy, spaCy, SciSpaCy), R, SAS, SPSS
 
-🔹 Data Visualization: Tableau, Matplotlib, PowerBI
+🔹 Data Visualization: Tableau, Matplotlib, Power BI, Excel
 
 🔹 Databases: MySQL, BigQuery
 
@@ -32,7 +32,7 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 
 🔹 Natural Language Processing (NLP): Relation Extraction (RE), Semantic Similarity, Sentiment Analysis, Predictive Modeling, Named Entity Recognition (NER)
 
-🔹 Healthcare Data & Standards: ICD-10, CPT, HCPCS, HL7, FHIR, AHRQ, TJC, HCAHPS, MIPS
+🔹 Healthcare Data & Standards: ICD-10, CPT, HCPCS, HL7, FHIR, AHRQ, TJC, HCAHPS, MIPS, HEDIS, QRS, CQMs, KPIs, PSIs, Epic Systems, HIPAA, PDSA/PDCA
 
 # 🚀 Featured Projects
 
