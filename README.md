@@ -18,7 +18,7 @@ I'm passionate about leveraging data analytics, machine learning, and NLP to dri
 
 * 📍 Research interests: Medical coding validation, patient safety indicators, and health disparities.
 
-* Currently looking for a Full-time role as a Healthcare/Clinical Quality Analyst or Data Analyst.
+* 💼 Currently looking for a Full-time role as a Healthcare/Clinical Quality Analyst and preparing for the CPHQ Certification.
 
 # 🛠️ Technical Skills
 
